@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Wail</h1>
 <h3 align="center">Dedicated Developer and Data Analyst who has a passion for statistics and sports</h3>
 
-<p align="left"> <img src="https://en.pimg.jp/064/063/848/1/64063848.jpg" alt="wailoz" /> </p>
+
 
 - 🔭 I’m currently working on **Sports Analysis Program**
 
