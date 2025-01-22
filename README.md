@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **wail_.osman@hotmail.com**
 
-- ⚡ Fun fact **I played University soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
